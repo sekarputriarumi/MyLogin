@@ -39,7 +39,7 @@ namespace MyLogin
             {
                 MessageBox.Show("Error" + ex);
             }
-            clear();
+            
         }
 
         void clear()
